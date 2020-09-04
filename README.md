@@ -51,20 +51,29 @@ That means...
 1. When viewed in a browser, there is text describing the snippets
 1. When viewed in VS Code or via View Source, the HTML reflects what is being described
 
+
+
+
 ## Resources
 
-Here are some tutorials/guides we like. You should **still look for other ones that you might like better**!
+Here are some popular tutorials/guides. You should **still look for other ones that you might like better**!
 
-1. Shay Howe's *[Learn to Code HTML & CSS][url-howe-tutorial]*
-1. Oliver James' [HTML & CSS Is Hard (But Doesn't Have To Be)][url-css-hard-tutorial]*
-1. Jessica Hische and Russ Maschmeyer's *[Don't Fear The Internet][url-hische-tutorial]*
+1. Shay Howe's *[Learn to Code HTML & CSS](https://learn.shayhowe.com/)*
+1. Oliver James' *[HTML & CSS Is Hard (But Doesn't Have To Be)](https://www.internetingishard.com/html-and-css/)*
+1. Jessica Hische and Russ Maschmeyer's *[Don't Fear The Internet](http://www.dontfeartheinternet.com/)*
 
 Here are some more reference-like resources. These might be slightly technical, but they're accurate and comprehensive. Learning to read technical reference material is its own (very valuable) skill.
 
-- MDN's [HTML: Hypertext Markup Language][mdn-html]
-- MDN's [CSS: Cascading Stylesheets][mdn-css]
-- [HTMLReference.io][url-htmlreference]
-- [CSSReference.io][url-cssreference]
+- w3schools [HTML](https://www.w3schools.com/html/) and [CSS](https://www.w3schools.com/css/)
+- MDN's [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- MDN's [CSS: Cascading Stylesheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [HTMLReference.io](https://htmlreference.io/)
+- [CSSReference.io](https://cssreference.io/)
+
+
+
+
+
 
 ## Development Environment
 
