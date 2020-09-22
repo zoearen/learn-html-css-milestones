@@ -270,3 +270,9 @@ https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-
 	- [ ] `8` HTML Fundamentals
 	- [ ] `8` CSS Fundamentals
 	- [ ] `2` Publishing
+
+
+
+## Credits
+
+This assignment was adapted from [milestones-html](https://github.com/jfarmer/milestones-html), created by [Jesse Farmer](https://github.com/jfarmer) for the DIG 245 Liberal Arts in Silicon Valley curriculum.
