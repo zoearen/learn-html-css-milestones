@@ -251,15 +251,16 @@ You should be able to...
 
 - [ ] Use [Github Pages](https://docs.github.com/en/github/working-with-github-pages) to publish this project to the web
 - [ ] Validate your [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/)
-- [ ] ✏️ Paste the url to your repository (e.g. `http://github.com/*username*/learn-html-css-milestones`) here: **??**
-- [ ] ✏️ Paste the public url to your repo's Github Page (e.g. `http://*username*.github.io/learn-html-css-milestones`) here: **??**
+- [ ] ✏️ Replace this: **[https://github.com/*username*/learn-html-css-milestones](https://github.com/*username*/learn-html-css-milestones)** with your Github.com/repository url.
+- [ ] ✏️ Replace this: **[https://*username*.github.io/learn-html-css-milestones](https://*username*.github.io/learn-html-css-milestones)** with your repo's Github Page url.
 
 
 
+### Follow a tutorial
 
-- [ ] Follow a tutorial
-https://jekyllrb.com/
-https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll
+- [ ] Coming soon (possibly using [Jekyll](https://jekyllrb.com/) and [Github Pages](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll))
+
+
 
 
 
