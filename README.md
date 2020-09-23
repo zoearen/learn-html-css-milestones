@@ -22,6 +22,7 @@ Below is a list of tasks. By mid-semester, everyone should...
 - [Development Environment](#Development-Environment)
 - [HTML Fundamentals](#HTML-Fundamentals)
 - [CSS Fundamentals](#CSS-Fundamentals)
+- [CSS Frameworks](#CSS-Frameworks)
 - [Publishing](#Publishing)
 - [Grading](#Grading)
 
@@ -94,9 +95,9 @@ You should be able to...
 
 ### Editing and Viewing
 
-- [ ] ✏️ Create a new (empty) HTML file named `index.html` and edit it in Atom
-- [ ] ✏️ Write some HTML in `index.html`
-- [ ] Open `index.html` in your browser and test it locally
+- [ ] ✏️ Create a new (empty) HTML file named `basic-image.html` and edit it in Atom
+- [ ] ✏️ Write some HTML in `basic-image.html`
+- [ ] Open `basic-image.html` in your browser and test it locally
 - [ ] Use "Inspect Element" to open the developer tools and view the HTML and CSS for areas on your web page
 - [ ] ✏️ Add an image to the project `assets/img/` directory and display it on the webpage using the `<img>` tag
 
@@ -112,7 +113,7 @@ You should be able to...
 
 Let's make sure we have the basic structure of an HTML page down. Don't worry too much about the content, here.
 
-✏️ You should be able to create a file called `structure.html` that contains the following, structured correctly:
+✏️ You should be able to create a file called `basic-structure.html` that contains the following, structured correctly:
 
 - [ ] ✏️ A `DOCTYPE` declaration
 - [ ] ✏️ A `<html>` tag, containing...
@@ -127,7 +128,7 @@ Let's make sure we have the basic structure of an HTML page down. Don't worry to
 
 ### The Anatomy of an HTML Tag
 
-✏️ You should be able to create a properly structured HTML document named `snippet.html` that talks about the following snippet:
+✏️ You should be able to create a properly structured HTML document named `basic-snippet.html` that talks about the following snippet:
 
 ```html
 <p>
@@ -136,7 +137,7 @@ Let's make sure we have the basic structure of an HTML page down. Don't worry to
 </p>
 ```
 
-In `snippet.html`, you should be able to:
+In `basic-snippet.html`, you should be able to:
 
 - [ ] ✏️ Name the tags in the snippet
 - [ ] ✏️ Link to 2-3 online references that describe each tag, give examples, etc.
@@ -186,7 +187,7 @@ Building on `basic-tags.html`, you should be able to create tables of varying si
 
 ### Multimedia
 
-✏️ Create a page named `multimedia.html` in which you:
+✏️ Create a page named `basic-multimedia.html` in which you:
 
 - [ ] ✏️ Use the `<video>` tag to embed one or more videos
 - [ ] ✏️ Use the `<audio>` tag to embed one or more audio clips
@@ -242,6 +243,39 @@ Using `basic-css.html`, you should be able to demonstrate the following by using
 
 
 
+
+
+
+## CSS Frameworks
+
+✏️ You should be able to create a new file called `index.html` and do the following:
+
+- [ ] Implement a CSS framework like [Bootstrap](https://getbootstrap.com/)
+  - [ ] ✏️ Find and add the Bootstrap starter template to `index.html`
+  - [ ] ✏️ Add a "full width" section using `.container-fluid` inside the top of `<body></body>` element
+  ```
+	<div class="container-fluid">
+		<div class="row">
+			Add any horizontally-oriented image here
+		</div>
+	</div>
+  ```  
+  - [ ] ✏️ Add a new "regular width" section using `.container` underneath the full width section
+  ```
+  <div class="container">
+	  <div class="row">
+
+	  </div>
+  </div>
+  ```  
+  - [ ] ✏️ To the regular width section, add HTML and [Bootstrap's built-in CSS classes](https://getbootstrap.com/docs/4.5/layout/grid/) to display a one column layout (mobile) and a three column layout (in large displays and above).
+  - [ ] ✏️ In the first column in the above section, add a link to each of the above html files.
+  - [ ] ✏️ In the second column in the above section, add a selection of [form elements](https://getbootstrap.com/docs/4.5/components/forms/) that use Bootstrap classes.  
+  - [ ] ✏️ In the third column in the above section, copy your favorite quote from any of the readings thus far in this class.
+
+
+
+
 ## Publishing
 
 You should be able to...
@@ -256,10 +290,6 @@ You should be able to...
 
 
 
-### Follow a tutorial
-
-- [ ] Coming soon (possibly using [Jekyll](https://jekyllrb.com/) and [Github Pages](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll))
-
 
 
 
@@ -268,8 +298,9 @@ You should be able to...
 ## Grading
 - [ ] Points: `20`
 	- [ ] `2` Development Environment
-	- [ ] `8` HTML Fundamentals
-	- [ ] `8` CSS Fundamentals
+	- [ ] `7` HTML Fundamentals
+	- [ ] `7` CSS Fundamentals
+	- [ ] `2` CSS Frameworks
 	- [ ] `2` Publishing
 
 
