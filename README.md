@@ -223,7 +223,7 @@ Building on `basic-tags.html`, you should be able to create tables of varying si
 
 ### Identifying CSS
 
-Using `basic-css.html`, you should be able to demonstrate the following by using a `<style>` tag to include the CSS:
+In `basic-css.html`, you should be able to demonstrate the following html inside the body to use the above CSS:
 
 - [ ] Selectors...
   - [ ] ✏️ Type / tag selectors
