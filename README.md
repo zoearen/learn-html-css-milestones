@@ -85,11 +85,12 @@ Here are some more reference-like resources. These might be slightly technical, 
 
 You should be able to...
 
-- [ ] Open the terminal from within Mac Finder / Windows
-- [ ] Use `cd <directoryname>` to navigate between directories
+- [ ] Open this repo on the command line (Bash or Terminal) from within Github Desktop
+- [ ] Use `cd tests` to navigate to the tests directory
 - [ ] Use `ls` to list the contents of a directory
-- [ ] Use `mkdir <directoryname>` to create an empty directory
-- [ ] Use `touch <filename>` to create an empty file
+- [ ] Use `mkdir empty-directory` to create an empty directory
+- [ ] Use `touch empty-file.html` to create an empty file
+- [ ] Use `cd ../` to navigate back up to the root directory of the repo
 - [ ] Use `Atom .` to open the current directory in your code editor
 
 
