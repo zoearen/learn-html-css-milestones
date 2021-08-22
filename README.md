@@ -269,11 +269,10 @@ In `basic-css.html`, you should be able to demonstrate the following html inside
 	  </div>
   </div>
   ```  
-  - [ ] ✏️ To the regular width section, add HTML and [Bootstrap's built-in CSS classes](https://getbootstrap.com/docs/4.5/layout/grid/) to display a one column layout (mobile) and a three column layout (in large displays and above).
+  - [ ] ✏️ To the regular width section, add HTML and [Bootstrap's built-in CSS classes](https://getbootstrap.com/docs) to display a one column layout (mobile) and a three column layout (in large displays and above).
   - [ ] ✏️ In the first column in the above section, add a link to each of the above html files.
-  - [ ] ✏️ In the second column in the above section, add a selection of [form elements](https://getbootstrap.com/docs/4.5/components/forms/) that use Bootstrap classes.  
+  - [ ] ✏️ In the second column in the above section, add a selection of [form elements](https://getbootstrap.com/docs) that use Bootstrap classes.  
   - [ ] ✏️ In the third column in the above section, copy your favorite quote from any of the readings thus far in this class.
-
 
 
 
