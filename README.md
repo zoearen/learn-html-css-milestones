@@ -34,7 +34,7 @@ Below is a list of tasks. By mid-semester, everyone should...
 
 1. Fork this repository
 1. Complete and check off each of the tasks below, creating files and adding content where prompted with ✏️ or  **??**
-1. After you finish, celebrate your HTML and CSS proficiency! 🙌  
+1. After you finish, celebrate your HTML and CSS proficiency! 🙌
 
 
 
@@ -89,6 +89,7 @@ You should be able to...
 - [ ] Use `cd tests` to navigate to the tests directory
 - [ ] Use `ls` to list the contents of a directory
 - [ ] Use `mkdir empty-directory` to create an empty directory
+- [ ] Use `cd empty-directory`
 - [ ] Use `touch empty-file.html` to create an empty file
 - [ ] Use `cd ../` to navigate back up to the root directory of the repo
 - [ ] Use `Atom .` to open the current directory in your code editor
@@ -254,24 +255,28 @@ In `basic-css.html`, you should be able to demonstrate the following html inside
 - [ ] Implement a CSS framework like [Bootstrap](https://getbootstrap.com/)
   - [ ] ✏️ Find and add the Bootstrap starter template to `index.html`
   - [ ] ✏️ Add a "full width" section using `.container-fluid` inside the top of `<body></body>` element
-  ```
+
+  ```html
 	<div class="container-fluid">
 		<div class="row">
 			Add any horizontally-oriented image here
 		</div>
 	</div>
-  ```  
-  - [ ] ✏️ Add a new "regular width" section using `.container` underneath the full width section
   ```
+
+  - [ ] ✏️ Add a new "regular width" section using `.container` underneath the full width section
+
+  ```html
   <div class="container">
 	  <div class="row">
 
 	  </div>
   </div>
-  ```  
+  ```
+
   - [ ] ✏️ To the regular width section, add HTML and [Bootstrap's built-in CSS classes](https://getbootstrap.com/docs) to display a one column layout (mobile) and a three column layout (in large displays and above).
   - [ ] ✏️ In the first column in the above section, add a link to each of the above html files.
-  - [ ] ✏️ In the second column in the above section, add a selection of [form elements](https://getbootstrap.com/docs) that use Bootstrap classes.  
+  - [ ] ✏️ In the second column in the above section, add a selection of [form elements](https://getbootstrap.com/docs) that use Bootstrap classes.
   - [ ] ✏️ In the third column in the above section, copy your favorite quote from any of the readings thus far in this class.
 
 
@@ -285,23 +290,28 @@ You should be able to...
 
 - [ ] Use [Github Pages](https://docs.github.com/en/github/working-with-github-pages) to publish this project to the web
 - [ ] Validate your [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/)
-- [ ] ✏️ Replace this: **[https://github.com/*username*/learn-html-css-milestones](https://github.com/*username*/learn-html-css-milestones)** with your Github.com/repository url.
-- [ ] ✏️ Replace this: **[https://*username*.github.io/learn-html-css-milestones](https://*username*.github.io/learn-html-css-milestones)** with your repo's Github Page url.
+- [ ] ✏️ Replace this: [github.com/***username***/learn-html-css-milestones](https://github.com/*username*/learn-html-css-milestones) with your Github.com/repository url.
+- [ ] ✏️ Replace this: [***username***.github.io/learn-html-css-milestones](https://*username*.github.io/learn-html-css-milestones) with your repo's Github Page url.
 
 
 
 
 
 
+<details>
+<summary>Rubric</summary>
+
+Points: `20`
+- [ ] `2` Development Environment
+- [ ] `7` HTML Fundamentals
+- [ ] `7` CSS Fundamentals
+- [ ] `2` CSS Frameworks
+- [ ] `2` Publishing
+
+</details>
 
 
-## Grading
-- [ ] Points: `20`
-	- [ ] `2` Development Environment
-	- [ ] `7` HTML Fundamentals
-	- [ ] `7` CSS Fundamentals
-	- [ ] `2` CSS Frameworks
-	- [ ] `2` Publishing
+
 
 
 
