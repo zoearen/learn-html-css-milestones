@@ -301,12 +301,7 @@ You should be able to...
 <details>
 <summary>Rubric</summary>
 
-Points: `20`
-- [ ] `2` Development Environment
-- [ ] `7` HTML Fundamentals
-- [ ] `7` CSS Fundamentals
-- [ ] `2` CSS Frameworks
-- [ ] `2` Publishing
+See Moodle
 
 </details>
 
