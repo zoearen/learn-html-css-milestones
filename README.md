@@ -191,8 +191,8 @@ Building on `basic-tags.html`, you should be able to create tables of varying si
 
 ✏️ Create a page named `basic-multimedia.html` in which you:
 
-- [ ] ✏️ Use the `<video>` tag to embed one or more videos
-- [ ] ✏️ Use the `<audio>` tag to embed one or more audio clips
+- [ ] ✏️ Use the `<video>` tag to embed one or more [video clips](https://file-examples.com/index.php/sample-video-files/)
+- [ ] ✏️ Use the `<audio>` tag to embed one or more [audio clips](https://file-examples.com/index.php/sample-audio-files/)
 
 
 
