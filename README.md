@@ -159,12 +159,12 @@ Each section should be contained in its own `<section>` tag. Do not use any CSS 
 You should be able to create sections that demonstrate...
 
 - [x] The following block-level text containers:
-  - [ ] ✏️ The paragraph `<p>` tag
-  - [ ] ✏️ The blockquote `<blockquote>` tag
-  - [ ] ✏️ The pre-formatted text `<pre>` tag
-- [ ] Inline text styling using the following tags:
-  - [ ] ✏️ `<em>` and `<i>`
-  - [ ] ✏️ `<strong>` and `<b>`
+  - [x] ✏️ The paragraph `<p>` tag
+  - [x] ✏️ The blockquote `<blockquote>` tag
+  - [x] ✏️ The pre-formatted text `<pre>` tag
+- [x] Inline text styling using the following tags:
+  - [x] ✏️ `<em>` and `<i>`
+  - [x] ✏️ `<strong>` and `<b>`
   - [ ] ✏️ `<code>`
 - [ ] ✏️ The `<a>` tag
 - [ ] ✏️ The `<img>` tag
@@ -290,8 +290,8 @@ You should be able to...
 
 - [ ] Use [Github Pages](https://docs.github.com/en/github/working-with-github-pages) to publish this project to the web
 - [ ] Validate your [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/)
-- [ ] ✏️ Replace this: [github.com/***username***/learn-html-css-milestones](https://github.com/*username*/learn-html-css-milestones) with your Github.com/repository url.
-- [ ] ✏️ Replace this: [***username***.github.io/learn-html-css-milestones](https://*username*.github.io/learn-html-css-milestones) with your repo's Github Page url.
+- [x] ✏️ Replace this: [https://github.com/zoearen/learn-html-css-milestones] with your Github.com/repository url.
+- [x] ✏️ Replace this: [***username***.github.io/learn-html-css-milestones](https://*username*.github.io/learn-html-css-milestones) with your repo's Github Page url.
 
 
 
