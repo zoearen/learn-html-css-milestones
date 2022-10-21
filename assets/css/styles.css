@@ -16,6 +16,10 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto;
 }
 
+#h2 {
+  color: orange;
+}
+
 /* Select all <pre> tags */
 pre {
   /* Remove leading whitespace from inside <pre> tags */

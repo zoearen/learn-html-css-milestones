@@ -141,13 +141,13 @@ Let's make sure we have the basic structure of an HTML page down. Don't worry to
 
 In `basic-snippet.html`, you should be able to:
 
-- [ ] ✏️ Name the tags in the snippet
-- [ ] ✏️ Link to 2-3 online references that describe each tag, give examples, etc.
-- [ ] ✏️ Describe the relationship between the tags in terms of nesting ("X is a child of Y")
+- [x] ✏️ Name the tags in the snippet
+- [x] ✏️ Link to 2-3 online references that describe each tag, give examples, etc.
+- [x] ✏️ Describe the relationship between the tags in terms of nesting ("X is a child of Y")
 - [x] ✏️ Explain the relationship between `<p>` and `</p>`
-- [ ] ✏️ List some of the attribute names on the `<a>` tag
-- [ ] ✏️ For each attribute on the `<a>` tag, name its value
-- [ ] ✏️ For each attribute/value pair on the `<a>` tag, describe its purpose and effect
+- [x] ✏️ List some of the attribute names on the `<a>` tag
+- [x] ✏️ For each attribute on the `<a>` tag, name its value
+- [x] ✏️ For each attribute/value pair on the `<a>` tag, describe its purpose and effect
 
 
 ### Basic Tags
@@ -165,34 +165,34 @@ You should be able to create sections that demonstrate...
 - [x] Inline text styling using the following tags:
   - [x] ✏️ `<em>` and `<i>`
   - [x] ✏️ `<strong>` and `<b>`
-  - [ ] ✏️ `<code>`
-- [ ] ✏️ The `<a>` tag
-- [ ] ✏️ The `<img>` tag
-- [ ] ✏️ The different header tags `<h1>`, `<h2>`, `<h3>`, etc.
+  - [x] ✏️ `<code>`
+- [x] ✏️ The `<a>` tag
+- [x] ✏️ The `<img>` tag
+- [x] ✏️ The different header tags `<h1>`, `<h2>`, `<h3>`, etc.
 
 ### Lists
 
 Building on `basic-tags.html`, you should be able to do the following:
 
-- [ ] ✏️ Create multiple unordered lists using the `<ul>` and `<li>` tags
-- [ ] ✏️ Create multiple ordered lists using the `<ol>` and `<li>` tags
-- [ ] ✏️ Include other HTML inside the list item (`<li>`) tags, e.g., paragraphs, images, links, etc.
-- [ ] ✏️ Nest lists within each other
+- [x] ✏️ Create multiple unordered lists using the `<ul>` and `<li>` tags
+- [x] ✏️ Create multiple ordered lists using the `<ol>` and `<li>` tags
+- [x] ✏️ Include other HTML inside the list item (`<li>`) tags, e.g., paragraphs, images, links, etc.
+- [x] ✏️ Nest lists within each other
 
 ### Tables
 
 Building on `basic-tags.html`, you should be able to create tables of varying sizes:
 
-- [ ] ✏️ Create a 3x3 table using the `<table>`, `<tr>`, and `<td>` tags
-- [ ] ✏️ Add headings using the `<th>` tag
-- [ ] ✏️ Create two more tables of different dimensions
+- [x] ✏️ Create a 3x3 table using the `<table>`, `<tr>`, and `<td>` tags
+- [x] ✏️ Add headings using the `<th>` tag
+- [x] ✏️ Create two more tables of different dimensions
 
 ### Multimedia
 
 ✏️ Create a page named `basic-multimedia.html` in which you:
 
-- [ ] ✏️ Use the `<video>` tag to embed one or more [video clips](https://file-examples.com/index.php/sample-video-files/)
-- [ ] ✏️ Use the `<audio>` tag to embed one or more [audio clips](https://file-examples.com/index.php/sample-audio-files/)
+- [x] ✏️ Use the `<video>` tag to embed one or more [video clips](https://file-examples.com/index.php/sample-video-files/)
+- [x] ✏️ Use the `<audio>` tag to embed one or more [audio clips](https://file-examples.com/index.php/sample-audio-files/)
 
 
 
@@ -226,13 +226,13 @@ Building on `basic-tags.html`, you should be able to create tables of varying si
 
 In `basic-css.html`, you should be able to demonstrate the following html inside the body to use the above CSS:
 
-- [ ] Selectors...
-  - [ ] ✏️ Type / tag selectors
-  - [ ] ✏️ Class selectors
-  - [ ] ✏️ ID selectors
-- [ ] Combinators...
-  - [ ] ✏️ Descendant combinator
-  - [ ] ✏️ Child combinator
+- [x] Selectors...
+  - [x] ✏️ Type / tag selectors
+  - [x] ✏️ Class selectors
+  - [x] ✏️ ID selectors
+- [x] Combinators...
+  - [x] ✏️ Descendant combinator
+  - [x] ✏️ Child combinator
 
 ### Styling A Page
 
@@ -252,9 +252,9 @@ In `basic-css.html`, you should be able to demonstrate the following html inside
 
 ✏️ You should be able to create a new file called `index.html` and do the following:
 
-- [ ] Implement a CSS framework like [Bootstrap](https://getbootstrap.com/)
-  - [ ] ✏️ Find and add the Bootstrap starter template to `index.html`
-  - [ ] ✏️ Add a "full width" section using `.container-fluid` inside the top of `<body></body>` element
+- [x] Implement a CSS framework like [Bootstrap](https://getbootstrap.com/)
+  - [x] ✏️ Find and add the Bootstrap starter template to `index.html`
+  - [x] ✏️ Add a "full width" section using `.container-fluid` inside the top of `<body></body>` element
 
   ```html
 	<div class="container-fluid">
@@ -264,7 +264,7 @@ In `basic-css.html`, you should be able to demonstrate the following html inside
 	</div>
   ```
 
-  - [ ] ✏️ Add a new "regular width" section using `.container` underneath the full width section
+  - [x] ✏️ Add a new "regular width" section using `.container` underneath the full width section
 
   ```html
   <div class="container">
@@ -274,10 +274,10 @@ In `basic-css.html`, you should be able to demonstrate the following html inside
   </div>
   ```
 
-  - [ ] ✏️ To the regular width section, add HTML and [Bootstrap's built-in CSS classes](https://getbootstrap.com/docs) to display a one column layout (mobile) and a three column layout (in large displays and above).
-  - [ ] ✏️ In the first column in the above section, add a link to each of the above html files.
-  - [ ] ✏️ In the second column in the above section, add a selection of [form elements](https://getbootstrap.com/docs) that use Bootstrap classes.
-  - [ ] ✏️ In the third column in the above section, copy your favorite quote from any of the readings thus far in this class.
+  - [x] ✏️ To the regular width section, add HTML and [Bootstrap's built-in CSS classes](https://getbootstrap.com/docs) to display a one column layout (mobile) and a three column layout (in large displays and above).
+  - [x] ✏️ In the first column in the above section, add a link to each of the above html files.
+  - [x] ✏️ In the second column in the above section, add a selection of [form elements](https://getbootstrap.com/docs) that use Bootstrap classes.
+  - [x] ✏️ In the third column in the above section, copy your favorite quote from any of the readings thus far in this class.
 
 
 
@@ -288,10 +288,10 @@ You should be able to...
 
 ### Publish HTML/CSS to the web
 
-- [ ] Use [Github Pages](https://docs.github.com/en/github/working-with-github-pages) to publish this project to the web
+- [x] Use [Github Pages](https://docs.github.com/en/github/working-with-github-pages) to publish this project to the web
 - [ ] Validate your [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/)
-- [x] ✏️ Replace this: [https://github.com/zoearen/learn-html-css-milestones] with your Github.com/repository url.
-- [x] ✏️ Replace this: [https://zoearen.github.io/learn-html-css-milestones/](https://*username*.github.io/learn-html-css-milestones) with your repo's Github Page url.
+- [x] ✏️ Replace this: [https://github.com/zoearen/learn-html-css-milestones](https://github.com/zoearen/learn-html-css-milestones) with your Github.com/repository url.
+- [x] ✏️ Replace this: [https://zoearen.github.io/learn-html-css-milestones/](https://zoearen.github.io/learn-html-css-milestones/) with your repo's Github Page url.
 
 
 
